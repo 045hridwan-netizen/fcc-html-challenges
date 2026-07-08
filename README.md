@@ -14,7 +14,7 @@ Daftar modul latihan yang telah diimplementasikan dalam repositori ini:
 - **04:** *Cat Photo App* – Implementasi elemen form, radio button, checkbox, dan anchor tag.
 - **05:** *Cafe Menu* / *Bookstore* – Pemahaman tata letak teks, tipografi dasar, dan penataan hierarki konten.
 - **06-08:** *Music & Video Player* – Integrasi media eksternal menggunakan kontrol multimedia bawaan HTML.
-- **09-10:** *Heart Icon & Video Display* – Eksplorasi elemen grafis dasar dan optimalisasi pemutar video.
+- **09-11:** *Heart Icon & Video Display* – Eksplorasi elemen grafis dasar dan optimalisasi pemutar video.
 
 ---
 *Repositori ini dikelola secara aktif sebagai bagian dari pengembangan kompetensi profesional di bidang Software Engineering.*
