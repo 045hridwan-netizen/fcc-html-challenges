@@ -11,10 +11,11 @@ Repositori ini berisi kumpulan proyek dan tantangan pengkodean yang diselesaikan
 Daftar modul latihan yang telah diimplementasikan dalam repositori ini:
 
 - **01-03:** Dasar-dasar arsitektur dokumen HTML dan teknik *debugging* elemen dasar.
-- **04:** *Cat Photo App* – Implementasi elemen form, radio button, checkbox, dan anchor tag.
-- **05:** *Cafe Menu* / *Bookstore* – Pemahaman tata letak teks, tipografi dasar, dan penataan hierarki konten.
-- **06-08:** *Music & Video Player* – Integrasi media eksternal menggunakan kontrol multimedia bawaan HTML.
-- **09-11:** *Heart Icon & Video Display* – Eksplorasi elemen grafis dasar dan optimalisasi pemutar video.
+- **04:** *Cat Photo App* - Implementasi elemen form, radio button, checkbox, dan anchor tag.
+- **05:** *Cafe Menu* / *Bookstore* - Pemahaman tata letak teks, tipografi dasar, dan penataan hierarki konten.
+- **06-08:** *Music & Video Player* - Integrasi media eksternal menggunakan kontrol multimedia bawaan HTML.
+- **09-11:** *Heart Icon & Video Display* - Eksplorasi elemen grafis dasar dan optimalisasi pemutar video.
+- **12:** *Membangun Daftar Browser Web Utama* - Pemahaman struktur daftar istilah dan deskripsi pada HTML.
 
 ---
 *Repositori ini dikelola secara aktif sebagai bagian dari pengembangan kompetensi profesional di bidang Software Engineering.*
