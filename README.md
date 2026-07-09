@@ -16,6 +16,7 @@ Daftar modul latihan yang telah diimplementasikan dalam repositori ini:
 - **06-08:** *Music & Video Player* - Integrasi media eksternal menggunakan kontrol multimedia bawaan HTML.
 - **09-11:** *Heart Icon & Video Display* - Eksplorasi elemen grafis dasar dan optimalisasi pemutar video.
 - **12:** *Membangun Daftar Browser Web Utama* - Pemahaman struktur daftar istilah dan deskripsi pada HTML.
+- **13:** *Membangun Quincy's Job Tips Page* - Menyusun artikel tips kerja terstruktur beserta kutipan sumber.
 
 ---
 *Repositori ini dikelola secara aktif sebagai bagian dari pengembangan kompetensi profesional di bidang Software Engineering.*
