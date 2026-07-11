@@ -19,6 +19,7 @@ Daftar modul latihan yang telah diimplementasikan dalam repositori ini:
 - **13:** *Membangun Quincy's Job Tips Page* - Menyusun artikel tips kerja terstruktur beserta kutipan sumber.
 - **14:** *Membangun Halaman Blog Kucing* - Struktur dasar HTML5 semantik untuk halaman blog hewan peliharaan.
 - **15:** *Membangun Hub Acara* - Halaman HTML "Event Hub" tentang deskripsi acara mendatang dan masa lalu.
+- **16:** *Membangun Formulir Umpan Balik Hotel* - Pembuatan formulir input ulasan menggunakan berbagai tipe elemen form HTML.
 
 ---
 *Repositori ini dikelola secara aktif sebagai bagian dari pengembangan kompetensi profesional di bidang Software Engineering.*
