@@ -21,6 +21,7 @@ Daftar modul latihan yang telah diimplementasikan dalam repositori ini:
 - **15:** *Membangun Hub Acara* - Halaman HTML "Event Hub" tentang deskripsi acara mendatang dan masa lalu.
 - **16:** *Membangun Formulir Umpan Balik Hotel* - Pembuatan formulir input ulasan menggunakan berbagai tipe elemen form HTML. 
 - **17-18:** *Membangun Tabel Ujian Akhir* - Tabel data nilai ujian akhir mata kuliah Kalkulus dari lima orang mahasiswa.
+- **19:** *Membangun Formulir Survei* - Formulir Survei.
 
 ---
 *Repositori ini dikelola secara aktif sebagai bagian dari pengembangan kompetensi profesional di bidang Software Engineering.*
