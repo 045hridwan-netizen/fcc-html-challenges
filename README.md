@@ -23,6 +23,7 @@ Daftar modul latihan yang telah diimplementasikan dalam repositori ini:
 - **17-18:** *Membangun Tabel Ujian Akhir* - Tabel data nilai ujian akhir mata kuliah Kalkulus dari lima orang mahasiswa.
 - **19:** *Membangun Formulir Survei* - Formulir survei (Proyek Sertifikasi).
 - **20:** *Debug Halaman Blog Perjalanan Coding* - Debug Blog Camperbot.
+- **21:** *Membangun Tabel Jadwal Konferensi Teknologi* - Jadwal Konferensi Teknologi 2025 (Web Dev, UX, & teknologi masa depan).
 
 ---
 *Repositori ini dikelola secara aktif sebagai bagian dari pengembangan kompetensi profesional di bidang Software Engineering.*
