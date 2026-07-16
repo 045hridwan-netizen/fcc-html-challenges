@@ -25,6 +25,7 @@ Daftar modul latihan yang telah diimplementasikan dalam repositori ini:
 - **20:** *Debug Halaman Blog Perjalanan Coding* - Debug Blog Camperbot.
 - **21:** *Membangun Tabel Jadwal Konferensi Teknologi* - Jadwal Konferensi Teknologi 2025 (Web Dev, UX, & teknologi masa depan).
 - **22:** *Debug Bentuk Donasi* - Memperbaiki Formulir Donasi.
+- **23;** *Membangun Pengontrol Audio Yang Dapat Diakses* - Membuat Audio Control.
 
 ---
 *Repositori ini dikelola secara aktif sebagai bagian dari pengembangan kompetensi profesional di bidang Software Engineering.*
