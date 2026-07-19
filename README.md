@@ -27,6 +27,7 @@ Daftar modul latihan yang telah diimplementasikan dalam repositori ini:
 - **22:** *Debug Bentuk Donasi* - Memperbaiki Formulir Donasi.
 - **23:** *Membangun Pengontrol Audio Yang Dapat Diakses* - Membuat Audio Control.
 - **24:** *Membangun Halaman Checkout* - Halaman checkout beraksesibilitas untuk keranjang dan formulir pembayaran.
+- **25:** *Desain Halaman Ulasan Film* - Halaman Film Doraemon Sedang Terbang.
 
 ---
 *Repositori ini dikelola secara aktif sebagai bagian dari pengembangan kompetensi profesional di bidang Software Engineering.*
