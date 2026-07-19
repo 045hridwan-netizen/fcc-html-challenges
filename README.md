@@ -20,14 +20,15 @@ Daftar modul latihan yang telah diimplementasikan dalam repositori ini:
 - **14:** *Membangun Halaman Blog Kucing* - Struktur dasar HTML5 semantik untuk halaman blog hewan peliharaan.
 - **15:** *Membangun Hub Acara* - Halaman HTML "Event Hub" tentang deskripsi acara mendatang dan masa lalu.
 - **16:** *Membangun Formulir Umpan Balik Hotel* - Pembuatan formulir input ulasan menggunakan berbagai tipe elemen form HTML. 
-- **17-18:** *Membangun Tabel Ujian Akhir* - Tabel data nilai ujian akhir mata kuliah Kalkulus dari lima orang mahasiswa.
+- **17-18:** *Membangun Tabel Ujian Akhir* - Tabel data nilai ujian akhir mata kuliah kalkulus dari lima orang mahasiswa.
 - **19:** *Membangun Formulir Survei* - Formulir survei (Proyek Sertifikasi).
-- **20:** *Debug Halaman Blog Perjalanan Coding* - Debug Blog Camperbot.
-- **21:** *Membangun Tabel Jadwal Konferensi Teknologi* - Jadwal Konferensi Teknologi 2025 (Web Dev, UX, & teknologi masa depan).
-- **22:** *Debug Bentuk Donasi* - Memperbaiki Formulir Donasi.
-- **23:** *Membangun Pengontrol Audio Yang Dapat Diakses* - Membuat Audio Control.
+- **20:** *Debug Halaman Blog Perjalanan Coding* - Debug blog camperbot.
+- **21:** *Membangun Tabel Jadwal Konferensi Teknologi* - Jadwal konferensi teknologi 2025 (Web Dev, UX, & teknologi masa depan).
+- **22:** *Debug Bentuk Donasi* - Memperbaiki formulir donasi.
+- **23:** *Membangun Pengontrol Audio Yang Dapat Diakses* - Membuat audio control.
 - **24:** *Membangun Halaman Checkout* - Halaman checkout beraksesibilitas untuk keranjang dan formulir pembayaran.
-- **25:** *Desain Halaman Ulasan Film* - Halaman Film Doraemon Sedang Terbang.
+- **25:** *Desain Halaman Ulasan Film* - Halaman film doraemon sedang terbang.
+- **26:** *Membangun Pemain Multimedia* - Menggunakan audio dan vidio.
 
 ---
 *Repositori ini dikelola secara aktif sebagai bagian dari pengembangan kompetensi profesional di bidang Software Engineering.*
